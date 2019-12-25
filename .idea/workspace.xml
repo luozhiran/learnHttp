@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51484ac3-aebc-4a25-8ce6-3e68c6ea3715" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Project\maven-repository" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.3" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VSt5y4eLKe3dDso94N3f5susqy" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="D:/AndroidSDK/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/okhttp/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OkhttpZip\okhttpmaster\okhttp\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="okhttptest.GetExample" />
+      <module name="Simple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="okhttptest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51484ac3-aebc-4a25-8ce6-3e68c6ea3715" name="Default Changelist" comment="" />
+      <created>1577258144738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577258144738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/OkHttpClient.java</url>
+          <line>401</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/RealCall.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/RealCall.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/RealCall.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/RealCall.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/RealCall.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/RealInterceptorChain.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/RealInterceptorChain.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/RetryAndFollowUpInterceptor.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/RealInterceptorChain.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/RetryAndFollowUpInterceptor.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/BridgeInterceptor.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/http/BridgeInterceptor.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/cache/CacheInterceptor.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ConnectInterceptor.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/Transmitter.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ExchangeFinder.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ExchangeFinder.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ExchangeFinder.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ExchangeFinder.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/ExchangeFinder.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/RealConnection.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/RealConnection.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/RealConnection.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/Socket.java</url>
+          <line>558</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/okhttp/src/main/java/okhttp3/internal/connection/RealConnection.java</url>
+          <line>250</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
